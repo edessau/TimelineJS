@@ -111,7 +111,7 @@
 .vco-storyjs p,.vco-storyjs blockquote,.vco-storyjs blockquote p,.vco-storyjs .twitter blockquote p{font-family:'ralewaymedium',Helvetica Neue,Times,serif !important}
 .vco-storyjs .vco-feature h1,.vco-storyjs .vco-feature h2,.vco-storyjs .vco-feature h3,.vco-storyjs .vco-feature h4,.vco-storyjs .vco-feature h5,.vco-storyjs .vco-feature h6{font-family:'ralewaymedium',Helvetica Neue,Times,serif; font-weight:bold;}
 .timeline-tooltip{font-family:'ralewaymedium',Helvetica,Arial,sans-serif}
-.vco-storyjs{font-size:15px;font-weight:normal;line-height:20px;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;}.vco-storyjs p{font-size:15px;font-weight:normal;line-height:20px;margin-bottom:20px;color:#666}.vco-storyjs p small{font-size:12px;line-height:17px}
+.vco-storyjs{font-size:13px;font-weight:normal;line-height:14px;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;}.vco-storyjs p{font-size:13px;font-weight:normal;line-height:14px;margin-bottom:5px;color:#666}.vco-storyjs p small{font-size:12px;line-height:17px}
 .vco-storyjs p:first-child{margin-top:20px}
 .vco-storyjs .vco-navigation p{color:#999}
 .vco-storyjs .vco-feature h3,.vco-storyjs .vco-feature h4,.vco-storyjs .vco-feature h5,.vco-storyjs .vco-feature h6{margin-bottom:15px}
@@ -125,9 +125,9 @@
 .vco-storyjs h2.start{font-size:36px;line-height:38px;margin-bottom:15px}
 .vco-storyjs h1{margin-bottom:15px;font-size:32px;line-height:34px}.vco-storyjs h1 small{font-size:18px}
 .vco-storyjs h2{margin-bottom:15px;font-size:28px;line-height:30px}.vco-storyjs h2 small{font-size:14px;line-height:16px}
-.vco-storyjs h2.date{font-size:16px;line-height:25px;margin-bottom:20px;color:#DB9A9B}
+.vco-storyjs h2.date{font-size:16px;line-height:25px;margin-bottom:15px;color:#DB9A9B}
 .vco-storyjs h3,.vco-storyjs h4,.vco-storyjs h5,.vco-storyjs h6{line-height:40px}.vco-storyjs h3 .active,.vco-storyjs h4 .active,.vco-storyjs h5 .active,.vco-storyjs h6 .active{color:#08c}
-.vco-storyjs h3{font-size:30px;line-height:31px}.vco-storyjs h3 small{font-size:14px}
+.vco-storyjs h3{font-size:25px;line-height:26px}.vco-storyjs h3 small{font-size:14px}
 .vco-storyjs h4{font-size:20px;line-height:22px}.vco-storyjs h4 small{font-size:12px}
 .vco-storyjs h5{font-size:16px;line-height:18px}
 .vco-storyjs h6{font-size:13px;line-height:14px;text-transform:uppercase}
@@ -137,8 +137,8 @@
 .vco-storyjs blockquote,.vco-storyjs blockquote p{ font-size:100%;
   font-weight:normal;
   background:#F9F9F9 url(http://www.pbs.org/pov/apps/americanrevolutionary/timeline/fonts/blockquote-mark-gray.png) 2px 8px no-repeat;
-  padding: 0.5em 1.7em 0.5em;
-  line-height:1.2;
+  padding: 0.2em 1em 0.2em;
+  line-height:1.1;
   text-shadow: 0px 0px 2px rgba(255,255,255, 0.3);
 }}
 .vco-storyjs .credit{color:#999;text-align:right;font-size:10px;line-height:10px;display:block;margin:0 auto;clear:both}
@@ -211,11 +211,11 @@
 .vco-notouch .vco-slider .slider-item .content .content-container .googleplus .googleplus-content .googleplus-attachments a:hover{text-decoration:none}.vco-notouch .vco-slider .slider-item .content .content-container .googleplus .googleplus-content .googleplus-attachments a:hover h5{text-decoration:underline}
 .vco-slider img,.vco-slider embed,.vco-slider object,.vco-slider video,.vco-slider iframe{max-width:100%}
 .vco-slider .nav-previous,.vco-slider .nav-next{position:absolute;top:0;width:100px;font-size:11px}.vco-slider .nav-previous .nav-container,.vco-slider .nav-next .nav-container{height:100px;width:100px;position:absolute}
-.vco-slider .nav-previous .icon,.vco-slider .nav-next .icon{margin-top:12px;margin-bottom:15px}
+.vco-slider .nav-previous .icon,.vco-slider .nav-next .icon{margin-top:12px;margin-bottom:4px}
 .vco-slider .nav-previous .date,.vco-slider .nav-next .date,.vco-slider .nav-previous .title,.vco-slider .nav-next .title{line-height:14px}.vco-slider .nav-previous .date a,.vco-slider .nav-next .date a,.vco-slider .nav-previous .title a,.vco-slider .nav-next .title a{color:#999}
 .vco-slider .nav-previous .date small,.vco-slider .nav-next .date small,.vco-slider .nav-previous .title small,.vco-slider .nav-next .title small{display:none}
-.vco-slider .nav-previous .date,.vco-slider .nav-next .date{font-size:13px;line-height:13px; font-family: 'ralewaylight'; font-weight:bold;text-transform:uppercase;margin-bottom:4px}
-.vco-slider .nav-previous .title,.vco-slider .nav-next .title{font-size:11px;line-height:13px; font-family: 'ralewaylight'}
+.vco-slider .nav-previous .date,.vco-slider .nav-next .date{font-size:11px;line-height:13px; font-family: 'ralewaylight'; font-weight:bold;text-transform:uppercase;margin-bottom:4px}
+.vco-slider .nav-previous .title,.vco-slider .nav-next .title{font-size:10px;line-height:13px; font-family: 'ralewaylight'}
 .vco-slider .nav-previous{float:left;text-align:left}.vco-slider .nav-previous .icon{margin-left:15px;background-image:url(timeline.png?v4.4);background-repeat:no-repeat;background-position:-160px 0;width:24px;height:24px;overflow:hidden}
 .vco-slider .nav-previous .date,.vco-slider .nav-previous .title{text-align:left;padding-left:15px}
 .vco-slider .nav-next{float:right;text-align:right}.vco-slider .nav-next .icon{margin-left:61px;background-image:url(timeline.png?v4.4);background-repeat:no-repeat;background-position:-184px 0;width:24px;height:24px;overflow:hidden}
@@ -225,7 +225,7 @@
 .vco-slider .slider-item .content .pad-left .text .container{padding-left:30px}
 .vco-slider .slider-item .content .pad-left .media.text-media .media-wrapper .media-container{border:none;background-color:#fff}
 .vco-slider .slider-item .content .content-container{display:table;vertical-align:middle;}.vco-slider .slider-item .content .content-container .text{width:40%;max-width:50%;min-width:120px;display:table-cell;vertical-align:middle}.vco-slider .slider-item .content .content-container .text .container{display:table-cell;vertical-align:middle;text-align:left}.vco-slider .slider-item .content .content-container .text .container p{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto;word-wrap:break-word}
-.vco-slider .slider-item .content .content-container .text .container h2.date{font-size:25px;line-height:15px;font-weight:normal}
+.vco-slider .slider-item .content .content-container .text .container h2.date{font-size:20px;line-height:15px;font-weight:normal}
 .vco-slider .slider-item .content .content-container .text .container .slide-tag{font-size:11px;font-weight:bold;color:#fff;background-color:#ccc;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;vertical-align:baseline;white-space:nowrap;line-height:11px;padding:1px 3px 1px;margin-left:7.5px;margin-bottom:7.5px}
 .vco-slider .slider-item .content .content-container .media{width:100%;min-width:50%;float:left}.vco-slider .slider-item .content .content-container .media .media-wrapper{display:inline-block;margin-left:auto;margin-right:auto}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container{display:inline-block;line-height:0;padding:0;max-height:100%;}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-frame,.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-image img{border:1px solid;border-color:#ccc #999 #999 #ccc;background-color:#fff}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-frame iframe{background-color:#fff}
@@ -234,9 +234,9 @@
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow{position:relative;z-index:1;background:#fff}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:before,.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:after{z-index:-1;position:absolute;content:"";bottom:15px;left:10px;width:50%;top:80%;max-width:300px;background:#999;-webkit-box-shadow:0 15px 10px #999;-moz-box-shadow:0 15px 10px #999;box-shadow:0 15px 10px #999;-webkit-transform:rotate(-2deg);-moz-transform:rotate(-2deg);-ms-transform:rotate(-2deg);-o-transform:rotate(-2deg);transform:rotate(-2deg)}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow::after{-webkit-transform:rotate(2deg);-moz-transform:rotate(2deg);-ms-transform:rotate(2deg);-o-transform:rotate(2deg);transform:rotate(2deg);right:10px;left:auto}
-.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text{display:table}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text .container{display:table-cell;vertical-align:middle;font-size:15px;line-height:20px;color:#666}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text .container p{margin-bottom:20px}
-.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia{font-size:15px;line-height:20px;text-align:left;margin-left:auto;margin-right:auto;margin-bottom:15px;clear:both}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia .wiki-source{margin-bottom:15px;font-size:13px;line-height:19px;font-style:italic}
-.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia h4{border-bottom:1px solid #ccc;margin-bottom:5px}
+.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text{display:table}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text .container{display:table-cell;vertical-align:middle;font-size:15px;line-height:20px;color:#666}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .plain-text .container p{margin-bottom:10px}
+.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia{font-size:15px;line-height:20px;text-align:left;margin-left:auto;margin-right:auto;margin-bottom:10px;clear:both}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia .wiki-source{margin-bottom:10px;font-size:13px;line-height:14px;font-style:italic}
+.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia h4{border-bottom:1px solid #ccc;margin-bottom:10px}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia h4 a{color:#000}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .wikipedia p{font-size:13px;line-height:19px}
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .map{line-height:normal;z-index:200;text-align:left;background-color:#fff}.vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .map img{max-height:none !important;max-width:none !important;border:0;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
